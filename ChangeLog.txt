@@ -1,3 +1,5 @@
+2/7/25 - Changes made to add PlayerData to the world. All settings from the world tablet will now keep settings for each user.
+
 1/1/24 - Changed all scripts to use udon sharp. Changed teleport interact for the attic to work with the ladder for smaller avatars.
 
 12/23/23 - Updated the world to unity 2022 and updated the SDK to latest version. Made changes to some of the menus in the world tablet.
