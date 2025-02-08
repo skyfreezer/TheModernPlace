@@ -1,17 +1,8 @@
-2/7/25 - Changes made to add PlayerData to the world. All settings from the world tablet will now keep settings for each user.
---
-1/1/24 - Changed all scripts to use udon sharp. Changed teleport interact for the attic to work with the ladder for smaller avatars.
---
-12/23/23 - Updated the world to unity 2022 and updated the SDK to latest version. Made changes to some of the menus in the world tablet.
---
-12/6/23 - Added a new video player with better settings and portable controls right in the tablet. Changed up the bedroom and updated the mats for the room.
---
-7/3/23 - Updating lighting in attic room. Added Night Mode toggle for lighting/post processing. 
---
-6/64/23 - Changes made to the spawn room. With more furniture and objects.
---
-4/28/23 - Making changes the lighting and bakery settings. Working on removing all overlapping UVs
---
-4/23/23 - Updated SDK to the lastest version. Plus updates to udon and audio link.
-Made changes to collider scripts for all mirror locations. Added collider script for stairs in the gameroom.
---
+2/7/25 : Changes made to add PlayerData to the world. All settings from the world tablet will now keep settings for each user.
+1/1/24 : Changed all scripts to use udon sharp. Changed teleport interact for the attic to work with the ladder for smaller avatars.
+12/23/23 : Updated the world to unity 2022 and updated the SDK to latest version. Made changes to some of the menus in the world tablet.
+12/6/23 : Added a new video player with better settings and portable controls right in the tablet. Changed up the bedroom and updated the mats for the room.
+7/3/23 : Updating lighting in attic room. Added Night Mode toggle for lighting/post processing.
+6/64/23 : Changes made to the spawn room. With more furniture and objects.
+4/28/23 : Making changes the lighting and bakery settings. Working on removing all overlapping UVs
+4/23/23 : Updated SDK to the lastest version. Plus updates to udon and audio link. Made changes to collider scripts for all mirror locations. Added collider script for stairs in the gameroom.
