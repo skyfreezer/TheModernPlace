@@ -13,7 +13,7 @@ body:
     description: 'What platform are you running on?'
   validations:
     required: true
-  - type: input
+- type: input
   id: OperatingSystem
   attributes:
     label: Operating System
@@ -21,7 +21,7 @@ body:
     description: 'What operating system are you running on?'
   validations:
     required: true
-  - type: textarea
+- type: textarea
   id: problemmsg
   attributes:
     label: Describe the bug
