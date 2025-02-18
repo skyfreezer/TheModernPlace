@@ -21,11 +21,9 @@ body:
     description: 'What operating system are you running on?'
   validations:
     required: true
-- type: textarea
+  - type: textarea
   id: problemmsg
   attributes:
     label: Describe the bug
-    description: 'Describe what went wrong'
-    render: bash
   validations:
     required: true
