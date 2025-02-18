@@ -7,5 +7,5 @@ A small repo for files that get used in the world The Modern Place on VRchat
 - <a href="https://skyfreezer.github.io/TheModernPlace/ChangeLog.html">Change Log Webpage</a>
 - <a href="https://skyfreezer.github.io/TheModernPlace/ChangeLog.json">Change Log JSON</a>
 
-# Creating a new Issue
+# Creating a Issue about the vrchat world
 - <a href="https://github.com/skyfreezer/TheModernPlace/issues/new/choose">Create a new Issue</a>
