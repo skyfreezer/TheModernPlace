@@ -2,12 +2,15 @@ name: 'Bug Report'
 description: 'Something is not working or has a problem'
 title: '[Bug]'
 body:
-- type: input
-  id: prevalence
+- type: markdown
   attributes:
-    label: Bug prevalence
-    description: "How often do you or others encounter this bug?"
-    placeholder: "Whenever I visit the user account page (1-2 times a week)"
+    value: "## System Information"
+- type: input
+  id: platform
+  attributes:
+    label: Platform
+    description: "Which platform are you running on?"
+    placeholder: "Steam PC, Meta Quest, Android Device"
   validations:
     required: true
 - type: textarea
