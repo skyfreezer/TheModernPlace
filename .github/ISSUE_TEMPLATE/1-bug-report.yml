@@ -21,9 +21,18 @@ body:
     description: 'What operating system are you running on?'
   validations:
     required: true
+- type: markdown
+  attributes:
+    value: "## Bug Information"
 - type: textarea
   id: problemmsg
   attributes:
     label: Describe the bug
+  validations:
+    required: true
+- type: textarea
+  id: reproducemsg
+  attributes:
+    label: In as much detail as you can, decribe the steps you took to reproduce the problem.
   validations:
     required: true
