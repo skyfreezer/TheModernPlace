@@ -9,20 +9,23 @@ body:
   id: platform
   attributes:
     label: Platform
-    description: "Which platform are you running on?"
-    placeholder: "Steam PC, Meta Quest, Android Device"
+    placeholder: 'Steam PC, Meta Quest, Android Device'
+    description: 'What platform are you running on?'
+  validations:
+    required: true
+  - type: input
+  id: OperatingSystem
+  attributes:
+    label: Operating System
+    placeholder: 'Windows 10, Windows 11, Android, Linux'
+    description: 'What operating system are you running on?'
   validations:
     required: true
 - type: textarea
-  id: repro
+  id: problemmsg
   attributes:
-    label: Reproduction steps
-    description: "How do you trigger this bug? Please walk us through it step by step."
-    value: |
-      1.
-      2.
-      3.
-      ...
+    label: Describe the bug
+    description: 'Describe what went wrong'
     render: bash
   validations:
     required: true
