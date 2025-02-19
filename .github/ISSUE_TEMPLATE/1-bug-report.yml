@@ -33,6 +33,6 @@ body:
 - type: textarea
   id: reproducemsg
   attributes:
-    label: In as much detail as you can, decribe the steps you took to reproduce the problem.
+    label: In as much detail as you can, describe the steps you took to reproduce the problem.
   validations:
     required: true
